@@ -1,5 +1,5 @@
 1:HL["/pro-portfolio/_next/static/css/f52a8d36c2385d38.css","style"]
-0:["6rGp8VA0BMZ3Lnvglzt7n",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/pro-portfolio/_next/static/css/f52a8d36c2385d38.css","precedence":"next"}]],"$L3"]]]]
+0:["tb5cjSD1tp3pDcGSqEf48",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/pro-portfolio/_next/static/css/f52a8d36c2385d38.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":4657,"chunks":["781:static/chunks/781-4e94ce60e63edcbb.js","207:static/chunks/207-eaec4da4d84035ea.js","185:static/chunks/app/layout-338cac4f3319c54d.js"],"name":"ThemeProvider","async":false}
 5:I{"id":5965,"chunks":["781:static/chunks/781-4e94ce60e63edcbb.js","207:static/chunks/207-eaec4da4d84035ea.js","185:static/chunks/app/layout-338cac4f3319c54d.js"],"name":"Navbar","async":false}
 6:I{"id":1443,"chunks":["272:static/chunks/webpack-eabb1adc89c79871.js","971:static/chunks/fd9d1056-f0c4958f854e5904.js","864:static/chunks/864-d14e068d7d263ead.js"],"name":"","async":false}
